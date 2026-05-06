@@ -1,0 +1,13 @@
+MODEL COMPARISON
+
+ARIMA RMSE  : 194431593.64
+
+PROPHET RMSE : 176551289.69
+
+XGBOOST RMSE : 341592268741785.1
+
+LSTM RMSE : 88916104.42
+
+
+BEST MODEL:
+LSTM achieved the lowest RMSE and performed best for sales forecasting.
